@@ -1,6 +1,6 @@
 # time order data visualization 
 
-This is a data visualization project based on Jannchie/Historical-ranking-data-visualization-based-on-d3.js, which easily converts time-order data to dynamic scoll bar chart.  
+This is a data visualization project based on [https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js](Jannchie/Historical-ranking-data-visualization-based-on-d3.js), which easily converts time-order data to dynamic scoll bar chart.  
 This project aims to help video creators without programming experience produce time-order animation videos.  
 In case, we provide some examples of collecting video infomation and convert the original data to suitable format.   
 We also provide codes that can easily help creators convert original data to ranking-data, if you want to use the original codes.  
